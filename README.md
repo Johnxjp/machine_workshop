@@ -1,2 +1,2 @@
-# machine_workshop
+# Machine Workshop
 Home for various model implementations
